@@ -15,3 +15,15 @@ Push the code to Git and Github Repository
 * Before doing commit first time we need to execute these below commands
 	git config --global user.name "Nandagopal2000"
 	git config --global user.email "nandugopaldevji@gmail.com"
+
+* git status
+	checking status of files(commited or not commited)
+
+* git add -A
+	Add all the files to stagging area
+
+* git commit -m "first commit" 
+	Commit the code into git repository(local repo)
+
+* git push -u origin master
+	Push the code from git ---> github repository
