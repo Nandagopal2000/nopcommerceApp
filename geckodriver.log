@@ -1,0 +1,143 @@
+1687245585959	geckodriver	INFO	Listening on 127.0.0.1:65293
+1687245589016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofilexOHZnq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687245589484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687245589491	Marionette	INFO	Listening on port 65302
+Read port: 65302
+WebDriver BiDi listening on ws://127.0.0.1:65294
+1687245589826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65294/devtools/browser/72e40a64-f2cd-451c-9e42-a059b4922081
+JavaScript warning: moz-extension://f58ca306-d5f2-483e-811a-77ca879c96bf/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://f58ca306-d5f2-483e-811a-77ca879c96bf/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1687245600865	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2518:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1687245601986	geckodriver	INFO	Listening on 127.0.0.1:65336
+1687245605039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofilee9g3TO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687245605439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687245605444	Marionette	INFO	Listening on port 65344
+Read port: 65344
+WebDriver BiDi listening on ws://127.0.0.1:65337
+1687245605660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65337/devtools/browser/08c3d21b-8b46-4c34-8a83-2a8d465ab4b5
+JavaScript warning: moz-extension://a62aa8a2-d345-4b58-b348-7a6ffdb7c444/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://a62aa8a2-d345-4b58-b348-7a6ffdb7c444/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1687245615561	Marionette	INFO	Stopped listening on port 65344
+Dynamically enable window occlusion 1
+1687245727470	geckodriver	INFO	Listening on 127.0.0.1:65434
+1687245730553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofilelQ38Kt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687245730976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687245730982	Marionette	INFO	Listening on port 65443
+Read port: 65443
+WebDriver BiDi listening on ws://127.0.0.1:65435
+1687245731193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65435/devtools/browser/cf261248-b0b7-4dba-bc48-d2047658d536
+JavaScript warning: moz-extension://4ad5d4a5-bf15-4093-bf21-be6d180b1f23/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://4ad5d4a5-bf15-4093-bf21-be6d180b1f23/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1687245738371	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2518:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1687245739360	geckodriver	INFO	Listening on 127.0.0.1:65476
+1687245742425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofileVFp9yk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687245742802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687245742808	Marionette	INFO	Listening on port 65484
+Read port: 65484
+WebDriver BiDi listening on ws://127.0.0.1:65477
+1687245743021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65477/devtools/browser/82c1a82f-dc11-4ea7-9df5-c3f1a887a5e0
+JavaScript warning: moz-extension://68152a8c-13da-4d08-8dc0-1838c77cdf6b/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://68152a8c-13da-4d08-8dc0-1838c77cdf6b/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1687245748833	Marionette	INFO	Stopped listening on port 65484
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1687245801287	geckodriver	INFO	Listening on 127.0.0.1:65533
+1687245804342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofileyBG87P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687245804723	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687245804728	Marionette	INFO	Listening on port 49158
+Read port: 49158
+WebDriver BiDi listening on ws://127.0.0.1:65534
+1687245804940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65534/devtools/browser/8c74d6b8-785e-41cc-a663-6008e766229e
+JavaScript warning: moz-extension://a1c98355-6abe-466f-9cb5-2c9368d66cb6/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://a1c98355-6abe-466f-9cb5-2c9368d66cb6/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1687245811721	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2518:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+console.error: (new OperationError("Could not move temporary file(C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofileyBG87P\\extensions.json.tmp) to destination(C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofileyBG87P\\extensions.json)", (void 0)))
+ "C:\\Users\\ndevaraj\\AppData\\Local\\Temp\\1\\rust_mozprofile78mknm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687245816068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687245816074	Marionette	INFO	Listening on port 49199
+Read port: 49199
+WebDriver BiDi listening on ws://127.0.0.1:49192
+1687245816276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49192/devtools/browser/e2dabd01-6214-48a9-ba29-0dcf5db8a743
+JavaScript warning: moz-extension://74b5ed72-2d6e-4875-9650-9803345d9c48/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript warning: moz-extension://74b5ed72-2d6e-4875-9650-9803345d9c48/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1687245821392	Marionette	INFO	Stopped listening on port 49199
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 

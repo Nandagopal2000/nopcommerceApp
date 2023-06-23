@@ -1,0 +1,17 @@
+Push the code to Git and Github Repository
+
+******************************************************************************
+
+1) Create local git repository for your project
+
+* guide your project to the exact path 
+	cd D:\Nandu\PYTHON_PRACTISE\nopCommerceApp
+* git init 
+	create an empty git local repository
+
+* git remote add origin https://github.com/Nandagopal2000/nopcommerceApp.git
+	Connect your local git(local repo) with Github(global repo)
+
+* Before doing commit first time we need to execute these below commands
+	git config --global user.name "Nandagopal2000"
+	git config --global user.email "nandugopaldevji@gmail.com"
