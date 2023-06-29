@@ -1,6 +1,5 @@
 import time
 import pytest
-from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilites.readProperties import ReadConfig
 from utilites.customLogger import LogGen
@@ -41,11 +40,11 @@ class Test_002_DDT_Login:
             if act_title == exp_title:
                 if self.exp == "Pass":
                     self.logger.info("*** Passed ***")
-                    self.lp.clickLogout();
+                    self.lp.clickLogout()
                     lst_status.append("Pass")
                 elif self.exp == "Fail":
                     self.logger.info("***** Failed ******")
-                    self.lp.clickLogout();
+                    self.lp.clickLogout()
                     lst_status.append("Fail")
             elif act_title != exp_title:
                 if self.exp == "Pass":

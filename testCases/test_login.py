@@ -1,5 +1,5 @@
 import pytest
-from selenium import webdriver
+# from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilites.readProperties import ReadConfig
 from utilites.customLogger import LogGen

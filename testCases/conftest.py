@@ -26,8 +26,6 @@ def pytest_addoption(parser):  # This will get the value from CLI / hooks
 def browser(request):   # This will return the browser value to setup method
     return request.config.getoption("--browser")
 
-
-
 ##########################   PyTest HTML Report   ######################
 
 
@@ -43,4 +41,3 @@ def browser(request):   # This will return the browser value to setup method
 # def pytest_metadata(metadata):
 #     metadata.pop("JAVA_HOME", None)
 #     metadata.pop("Plugins", None)
-

@@ -27,3 +27,43 @@ Push the code to Git and Github Repository
 
 * git push -u origin master
 	Push the code from git ---> github repository
+
+2nd round
+****************
+
+git status
+git add -A --> add all the files in to stagging/indexing area
+git commit -m "comment"
+git push -u origin master
+ 
+git pull --> pull all the files from github to local
+
+********************************************************************************
+
+Github URL
+
+https://github.com/Nandagopal2000/nopcommerceApp.git
+
+
+***************************************************************************
+
+Jenkins -- CI Tool (Continious Integration Tool)
+
+download in https://www.jenkins.com/download
+download .war file 
+
+How to run jenkins.war file
+
+go to jenkins location in cmd
+
+run command --> java -jar jenkins.war
+
+jenkins project name --> nopcommerce_github_SeleniumPython
+
+
+
+
+
+
+
+

@@ -677,3 +677,302 @@
 06/20/2023 02:17:40 PM: INFO: ******** Starting Search Customer By Name ************
 06/20/2023 02:17:42 PM: INFO: ************** Searching Customer By Name ****************
 06/20/2023 02:17:48 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/27/2023 03:30:24 PM: INFO: ************************* Home page Title Test ***************************
+06/27/2023 03:30:26 PM: INFO: ************************* Home page Title is Passed ***************************
+06/27/2023 03:30:28 PM: INFO: ************************* Verifying Login Test ***************************
+06/27/2023 03:30:38 PM: INFO: ************************* Login Test is Passed ***************************
+06/27/2023 03:49:54 PM: INFO: ****************** Search Customer By Email **************
+06/27/2023 03:50:05 PM: INFO: ************************* Login Successful ****************
+06/27/2023 03:50:05 PM: INFO: *************************** Export customer details Test Start *************************
+06/27/2023 03:50:07 PM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 10:54:13 AM: INFO: ****************** Search Customer By Email **************
+06/28/2023 10:54:37 AM: INFO: ************************* Login Successful ****************
+06/28/2023 10:54:37 AM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 10:54:47 AM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 10:54:48 AM: INFO: ******************* Exporting Customer Completed *******************
+06/28/2023 12:17:30 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 12:17:37 PM: INFO: ************************* Login Successful ****************
+06/28/2023 12:17:37 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 12:17:39 PM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 12:17:40 PM: INFO: ******************* Exporting Customer Completed *******************
+06/28/2023 12:35:00 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 12:35:10 PM: INFO: ************************* Login Successful ****************
+06/28/2023 12:35:10 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 12:35:12 PM: INFO: ******************** Exporting Customer all ******************
+06/28/2023 12:35:13 PM: INFO: ******************* Exporting Customer all *******************
+06/28/2023 02:00:45 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 02:00:52 PM: INFO: ************************* Login Successful ****************
+06/28/2023 02:00:52 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 02:00:55 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/28/2023 02:00:56 PM: INFO: ******************* Exporting Customer Excel Selected *******************
+06/28/2023 02:05:19 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 02:05:25 PM: INFO: ************************* Login Successful ****************
+06/28/2023 02:05:25 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 02:05:28 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 02:05:29 PM: INFO: ******************* Exporting Customer Excel All *******************
+06/28/2023 03:38:23 PM: INFO: ********************** Test_003_AddCustomer ***********************
+06/28/2023 03:38:29 PM: INFO: ******************* Login Successful *****************
+06/28/2023 03:38:29 PM: INFO: ******************* Starting Add Customer Test ******************
+06/28/2023 03:38:31 PM: INFO: **************** Providing Customer info ***************
+06/28/2023 03:38:43 PM: INFO: ****************** Saving Customer Info ****************
+06/28/2023 03:38:43 PM: INFO: ***************** Add customer validation started **************
+06/28/2023 03:38:43 PM: INFO: ************ Add Customer Test Passed ******************
+06/28/2023 03:38:43 PM: INFO: *************************** Ending Test_003_AddCustomer Test *************************
+06/28/2023 03:38:45 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:38:50 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:38:50 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:38:52 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 03:38:54 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:39:00 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:39:00 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:39:01 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/28/2023 03:39:02 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:39:08 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:39:08 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:39:12 PM: INFO: ******************** Exporting Customer all ******************
+06/28/2023 03:39:12 PM: INFO: ******************* Exporting Customer all *******************
+06/28/2023 03:39:15 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:39:29 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:39:29 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:39:32 PM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 03:39:33 PM: INFO: ******************* Exporting Customer Completed *******************
+06/28/2023 03:39:35 PM: INFO: ************************* Home page Title Test ***************************
+06/28/2023 03:39:39 PM: INFO: ************************* Home page Title is Passed ***************************
+06/28/2023 03:39:41 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 03:39:46 PM: INFO: ************************* Login Test is Passed ***************************
+06/28/2023 03:39:48 PM: INFO: ************************* Test_002_DDT_Login  ******************
+06/28/2023 03:39:48 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 03:40:02 PM: INFO: *** Passed ***
+06/28/2023 03:40:09 PM: INFO: ***** Passed ******
+06/28/2023 03:40:15 PM: INFO: ***** Passed ******
+06/28/2023 03:40:21 PM: INFO: ***** Passed ******
+06/28/2023 03:40:27 PM: INFO: *** Failed ***
+06/28/2023 03:40:32 PM: INFO: *** Failed ***
+06/28/2023 03:40:38 PM: INFO: *** Failed ***
+06/28/2023 03:40:44 PM: INFO: ***** Passed ******
+06/28/2023 03:40:49 PM: INFO: ***** Passed ******
+06/28/2023 03:40:49 PM: INFO: ******** Login DDt test failed ******
+06/28/2023 03:40:50 PM: INFO: ************** End of Login DDT Test **************
+06/28/2023 03:40:50 PM: INFO: ************************ Completed TC_LoginDDT_002 *********************
+06/28/2023 03:40:51 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:40:56 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:40:56 PM: INFO: ******** Starting Search Customer By Email ************
+06/28/2023 03:40:57 PM: INFO: ************** Searching Customer By Email Id ****************
+06/28/2023 03:41:03 PM: INFO: **************** TC_SearchCustomerByEmail__004 Finished
+06/28/2023 03:41:04 PM: INFO: ****************** Search Customer By Name **************
+06/28/2023 03:41:08 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:41:08 PM: INFO: ******** Starting Search Customer By Name ************
+06/28/2023 03:41:09 PM: INFO: ************** Searching Customer By Name ****************
+06/28/2023 03:41:15 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/28/2023 03:44:52 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:44:59 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:44:59 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:45:00 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 03:45:01 PM: INFO: ******************* Exporting Customer Excel All *******************
+06/28/2023 03:46:40 PM: INFO: ********************** Test_003_AddCustomer ***********************
+06/28/2023 03:46:47 PM: INFO: ******************* Login Successful *****************
+06/28/2023 03:46:47 PM: INFO: ******************* Starting Add Customer Test ******************
+06/28/2023 03:46:51 PM: INFO: **************** Providing Customer info ***************
+06/28/2023 03:47:03 PM: INFO: ****************** Saving Customer Info ****************
+06/28/2023 03:47:03 PM: INFO: ***************** Add customer validation started **************
+06/28/2023 03:47:03 PM: INFO: ************ Add Customer Test Passed ******************
+06/28/2023 03:47:03 PM: INFO: *************************** Ending Test_003_AddCustomer Test *************************
+06/28/2023 03:47:05 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:47:12 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:47:12 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:47:13 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 03:47:15 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:47:20 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:47:20 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:47:22 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/28/2023 03:47:23 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:47:40 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:47:40 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:47:46 PM: INFO: ******************** Exporting Customer all ******************
+06/28/2023 03:47:47 PM: INFO: ******************* Exporting Customer all *******************
+06/28/2023 03:47:49 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:47:54 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:47:54 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 03:47:56 PM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 03:47:57 PM: INFO: ******************* Exporting Customer Completed *******************
+06/28/2023 03:47:58 PM: INFO: ************************* Home page Title Test ***************************
+06/28/2023 03:48:00 PM: INFO: ************************* Home page Title is Passed ***************************
+06/28/2023 03:48:02 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 03:48:17 PM: INFO: ************************* Login Test is Passed ***************************
+06/28/2023 03:48:19 PM: INFO: ************************* Test_002_DDT_Login  ******************
+06/28/2023 03:48:19 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 03:48:34 PM: INFO: *** Passed ***
+06/28/2023 03:48:41 PM: INFO: ***** Passed ******
+06/28/2023 03:48:47 PM: INFO: ***** Passed ******
+06/28/2023 03:48:53 PM: INFO: ***** Passed ******
+06/28/2023 03:48:59 PM: INFO: *** Failed ***
+06/28/2023 03:49:04 PM: INFO: *** Failed ***
+06/28/2023 03:49:10 PM: INFO: *** Failed ***
+06/28/2023 03:49:16 PM: INFO: ***** Passed ******
+06/28/2023 03:49:21 PM: INFO: ***** Passed ******
+06/28/2023 03:49:21 PM: INFO: ******** Login DDt test failed ******
+06/28/2023 03:49:22 PM: INFO: ************** End of Login DDT Test **************
+06/28/2023 03:49:22 PM: INFO: ************************ Completed TC_LoginDDT_002 *********************
+06/28/2023 03:49:23 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 03:49:31 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:49:31 PM: INFO: ******** Starting Search Customer By Email ************
+06/28/2023 03:49:32 PM: INFO: ************** Searching Customer By Email Id ****************
+06/28/2023 03:49:38 PM: INFO: **************** TC_SearchCustomerByEmail__004 Finished
+06/28/2023 03:49:39 PM: INFO: ****************** Search Customer By Name **************
+06/28/2023 03:49:46 PM: INFO: ************************* Login Successful ****************
+06/28/2023 03:49:46 PM: INFO: ******** Starting Search Customer By Name ************
+06/28/2023 03:49:47 PM: INFO: ************** Searching Customer By Name ****************
+06/28/2023 03:49:53 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/28/2023 04:56:09 PM: INFO: ********************** Test_003_AddCustomer ***********************
+06/28/2023 04:56:15 PM: INFO: ******************* Login Successful *****************
+06/28/2023 04:56:15 PM: INFO: ******************* Starting Add Customer Test ******************
+06/28/2023 04:56:18 PM: INFO: **************** Providing Customer info ***************
+06/28/2023 04:56:29 PM: INFO: ****************** Saving Customer Info ****************
+06/28/2023 04:56:29 PM: INFO: ***************** Add customer validation started **************
+06/28/2023 04:56:29 PM: INFO: ************ Add Customer Test Passed ******************
+06/28/2023 04:56:29 PM: INFO: *************************** Ending Test_003_AddCustomer Test *************************
+06/28/2023 04:56:31 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 04:56:37 PM: INFO: ************************* Login Successful ****************
+06/28/2023 04:56:37 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 04:56:38 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 04:56:40 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 04:56:46 PM: INFO: ************************* Login Successful ****************
+06/28/2023 04:56:46 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 04:56:47 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/28/2023 04:56:49 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 04:56:53 PM: INFO: ************************* Login Successful ****************
+06/28/2023 04:56:53 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 04:56:55 PM: INFO: ******************** Exporting Customer all ******************
+06/28/2023 04:56:57 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 04:57:14 PM: INFO: ************************* Login Successful ****************
+06/28/2023 04:57:14 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 04:57:19 PM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 04:57:20 PM: INFO: ******************* Exporting Customer Completed *******************
+06/28/2023 04:57:22 PM: INFO: ************************* Home page Title Test ***************************
+06/28/2023 04:57:25 PM: INFO: ************************* Home page Title is Passed ***************************
+06/28/2023 04:57:28 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 04:57:37 PM: INFO: ************************* Login Test is Passed ***************************
+06/28/2023 04:57:39 PM: INFO: ************************* Test_002_DDT_Login  ******************
+06/28/2023 04:57:39 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 04:57:52 PM: INFO: *** Passed ***
+06/28/2023 04:58:00 PM: INFO: ***** Passed ******
+06/28/2023 04:58:06 PM: INFO: ***** Passed ******
+06/28/2023 04:58:12 PM: INFO: ***** Passed ******
+06/28/2023 04:58:17 PM: INFO: *** Failed ***
+06/28/2023 04:58:23 PM: INFO: *** Failed ***
+06/28/2023 04:58:29 PM: INFO: *** Failed ***
+06/28/2023 04:58:35 PM: INFO: ***** Passed ******
+06/28/2023 04:58:40 PM: INFO: ***** Passed ******
+06/28/2023 04:58:40 PM: INFO: ******** Login DDt test failed ******
+06/28/2023 04:58:41 PM: INFO: ************** End of Login DDT Test **************
+06/28/2023 04:58:41 PM: INFO: ************************ Completed TC_LoginDDT_002 *********************
+06/28/2023 04:58:42 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 04:58:49 PM: INFO: ************************* Login Successful ****************
+06/28/2023 04:58:49 PM: INFO: ******** Starting Search Customer By Email ************
+06/28/2023 04:58:51 PM: INFO: ************** Searching Customer By Email Id ****************
+06/28/2023 04:58:56 PM: INFO: **************** TC_SearchCustomerByEmail__004 Finished
+06/28/2023 04:58:58 PM: INFO: ****************** Search Customer By Name **************
+06/28/2023 04:59:05 PM: INFO: ************************* Login Successful ****************
+06/28/2023 04:59:05 PM: INFO: ******** Starting Search Customer By Name ************
+06/28/2023 04:59:06 PM: INFO: ************** Searching Customer By Name ****************
+06/28/2023 04:59:12 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/28/2023 05:00:16 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:00:22 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:00:22 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 05:00:23 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 05:00:52 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:00:56 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:00:56 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 05:00:57 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/28/2023 05:01:23 PM: INFO: ********************** Test_003_AddCustomer ***********************
+06/28/2023 05:01:30 PM: INFO: ******************* Login Successful *****************
+06/28/2023 05:01:30 PM: INFO: ******************* Starting Add Customer Test ******************
+06/28/2023 05:01:33 PM: INFO: **************** Providing Customer info ***************
+06/28/2023 05:01:44 PM: INFO: ****************** Saving Customer Info ****************
+06/28/2023 05:01:44 PM: INFO: ***************** Add customer validation started **************
+06/28/2023 05:01:44 PM: INFO: ************ Add Customer Test Passed ******************
+06/28/2023 05:01:44 PM: INFO: *************************** Ending Test_003_AddCustomer Test *************************
+06/28/2023 05:01:46 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:01:53 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:01:53 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 05:01:54 PM: INFO: ******************** Exporting Customer Excel All ******************
+06/28/2023 05:01:56 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:02:03 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:02:03 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 05:02:05 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/28/2023 05:02:06 PM: INFO: ******************* Exporting Customer Excel Selected *******************
+06/28/2023 05:02:08 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:02:24 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:02:24 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 05:02:29 PM: INFO: ******************** Exporting Customer all ******************
+06/28/2023 05:02:31 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:02:37 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:02:37 PM: INFO: *************************** Export customer details Test Start *************************
+06/28/2023 05:02:38 PM: INFO: ******************** Exporting Customer Selected ******************
+06/28/2023 05:02:39 PM: INFO: ******************* Exporting Customer Completed *******************
+06/28/2023 05:02:41 PM: INFO: ************************* Home page Title Test ***************************
+06/28/2023 05:02:44 PM: INFO: ************************* Home page Title is Passed ***************************
+06/28/2023 05:02:46 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 05:03:02 PM: INFO: ************************* Login Test is Passed ***************************
+06/28/2023 05:03:04 PM: INFO: ************************* Test_002_DDT_Login  ******************
+06/28/2023 05:03:04 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 05:03:15 PM: INFO: *** Passed ***
+06/28/2023 05:03:22 PM: INFO: ***** Passed ******
+06/28/2023 05:03:28 PM: INFO: ***** Passed ******
+06/28/2023 05:03:34 PM: INFO: ***** Passed ******
+06/28/2023 05:03:40 PM: INFO: *** Failed ***
+06/28/2023 05:03:45 PM: INFO: *** Failed ***
+06/28/2023 05:03:51 PM: INFO: *** Failed ***
+06/28/2023 05:03:57 PM: INFO: ***** Passed ******
+06/28/2023 05:04:03 PM: INFO: ***** Passed ******
+06/28/2023 05:04:03 PM: INFO: ******** Login DDt test failed ******
+06/28/2023 05:04:03 PM: INFO: ************** End of Login DDT Test **************
+06/28/2023 05:04:03 PM: INFO: ************************ Completed TC_LoginDDT_002 *********************
+06/28/2023 05:04:05 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:04:11 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:04:11 PM: INFO: ******** Starting Search Customer By Email ************
+06/28/2023 05:04:13 PM: INFO: ************** Searching Customer By Email Id ****************
+06/28/2023 05:04:18 PM: INFO: **************** TC_SearchCustomerByEmail__004 Finished
+06/28/2023 05:04:20 PM: INFO: ****************** Search Customer By Name **************
+06/28/2023 05:04:26 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:04:26 PM: INFO: ******** Starting Search Customer By Name ************
+06/28/2023 05:04:27 PM: INFO: ************** Searching Customer By Name ****************
+06/28/2023 05:04:33 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/28/2023 05:13:16 PM: INFO: ********************** Test_003_AddCustomer ***********************
+06/28/2023 05:13:21 PM: INFO: ******************* Login Successful *****************
+06/28/2023 05:13:21 PM: INFO: ******************* Starting Add Customer Test ******************
+06/28/2023 05:13:24 PM: INFO: **************** Providing Customer info ***************
+06/28/2023 05:13:37 PM: INFO: ****************** Saving Customer Info ****************
+06/28/2023 05:13:37 PM: INFO: ***************** Add customer validation started **************
+06/28/2023 05:13:38 PM: INFO: ************ Add Customer Test Passed ******************
+06/28/2023 05:13:38 PM: INFO: *************************** Ending Test_003_AddCustomer Test *************************
+06/28/2023 05:13:40 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 05:13:49 PM: INFO: ************************* Login Test is Passed ***************************
+06/28/2023 05:13:58 PM: INFO: ************************* Home page Title Test ***************************
+06/28/2023 05:14:03 PM: INFO: ************************* Home page Title is Passed ***************************
+06/28/2023 05:14:05 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 05:14:12 PM: INFO: ************************* Login Test is Passed ***************************
+06/28/2023 05:14:15 PM: INFO: ************************* Test_002_DDT_Login  ******************
+06/28/2023 05:14:15 PM: INFO: ************************* Verifying Login Test ***************************
+06/28/2023 05:14:27 PM: INFO: *** Passed ***
+06/28/2023 05:14:34 PM: INFO: ***** Passed ******
+06/28/2023 05:14:40 PM: INFO: ***** Passed ******
+06/28/2023 05:14:46 PM: INFO: ***** Passed ******
+06/28/2023 05:14:52 PM: INFO: *** Failed ***
+06/28/2023 05:14:58 PM: INFO: *** Failed ***
+06/28/2023 05:15:04 PM: INFO: *** Failed ***
+06/28/2023 05:15:11 PM: INFO: ***** Passed ******
+06/28/2023 05:15:17 PM: INFO: ***** Passed ******
+06/28/2023 05:15:17 PM: INFO: ******** Login DDt test failed ******
+06/28/2023 05:15:17 PM: INFO: ************** End of Login DDT Test **************
+06/28/2023 05:15:17 PM: INFO: ************************ Completed TC_LoginDDT_002 *********************
+06/28/2023 05:15:19 PM: INFO: ****************** Search Customer By Email **************
+06/28/2023 05:15:26 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:15:26 PM: INFO: ******** Starting Search Customer By Email ************
+06/28/2023 05:15:27 PM: INFO: ************** Searching Customer By Email Id ****************
+06/28/2023 05:15:33 PM: INFO: **************** TC_SearchCustomerByEmail__004 Finished
+06/28/2023 05:15:36 PM: INFO: ****************** Search Customer By Name **************
+06/28/2023 05:15:42 PM: INFO: ************************* Login Successful ****************
+06/28/2023 05:15:42 PM: INFO: ******** Starting Search Customer By Name ************
+06/28/2023 05:15:44 PM: INFO: ************** Searching Customer By Name ****************
+06/28/2023 05:15:50 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
