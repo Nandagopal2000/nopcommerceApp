@@ -976,3 +976,91 @@
 06/28/2023 05:15:42 PM: INFO: ******** Starting Search Customer By Name ************
 06/28/2023 05:15:44 PM: INFO: ************** Searching Customer By Name ****************
 06/28/2023 05:15:50 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/30/2023 11:50:19 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:50:26 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:50:26 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:50:27 AM: INFO: ******************** Exporting Customer Excel All ******************
+06/30/2023 11:50:28 AM: INFO: ******************* Exporting Customer Excel All *******************
+06/30/2023 11:51:48 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:51:53 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:51:53 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:51:54 AM: INFO: ******************** Exporting Customer Selected ******************
+06/30/2023 11:53:14 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:53:19 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:53:19 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:53:21 AM: INFO: ******************** Exporting Customer Selected ******************
+06/30/2023 11:53:22 AM: INFO: ******************* Exporting Customer Completed *******************
+06/30/2023 11:53:47 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:53:52 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:53:52 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:53:53 AM: INFO: ******************** Exporting Customer all ******************
+06/30/2023 11:53:53 AM: INFO: ******************* Exporting Customer all *******************
+06/30/2023 11:55:05 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:55:10 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:55:10 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:55:11 AM: INFO: ******************** Exporting Customer all ******************
+06/30/2023 11:55:12 AM: INFO: ******************* Exporting Customer all *******************
+06/30/2023 11:55:23 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:55:28 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:55:28 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:55:29 AM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/30/2023 11:55:30 AM: INFO: ******************* Exporting Customer Excel Selected *******************
+06/30/2023 11:56:00 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:56:07 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:56:07 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:56:08 AM: INFO: ******************** Exporting Customer Excel All ******************
+06/30/2023 11:56:09 AM: INFO: ******************* Exporting Customer Excel All *******************
+06/30/2023 11:57:40 AM: INFO: ********************** Test_003_AddCustomer ***********************
+06/30/2023 11:57:46 AM: INFO: ******************* Login Successful *****************
+06/30/2023 11:57:46 AM: INFO: ******************* Starting Add Customer Test ******************
+06/30/2023 11:57:49 AM: INFO: **************** Providing Customer info ***************
+06/30/2023 11:58:00 AM: INFO: ****************** Saving Customer Info ****************
+06/30/2023 11:58:00 AM: INFO: ***************** Add customer validation started **************
+06/30/2023 11:58:00 AM: INFO: ************ Add Customer Test Passed ******************
+06/30/2023 11:58:01 AM: INFO: *************************** Ending Test_003_AddCustomer Test *************************
+06/30/2023 11:58:02 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:58:08 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:58:08 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:58:09 AM: INFO: ******************** Exporting Customer Excel All ******************
+06/30/2023 11:58:10 AM: INFO: ******************* Exporting Customer Excel All *******************
+06/30/2023 11:58:12 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:58:17 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:58:17 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:58:18 AM: INFO: ******************** Exporting Customer Excel Selected ******************
+06/30/2023 11:58:20 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:58:33 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:58:33 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:58:39 AM: INFO: ******************** Exporting Customer all ******************
+06/30/2023 11:58:39 AM: INFO: ******************* Exporting Customer all *******************
+06/30/2023 11:58:41 AM: INFO: ****************** Search Customer By Email **************
+06/30/2023 11:58:47 AM: INFO: ************************* Login Successful ****************
+06/30/2023 11:58:47 AM: INFO: *************************** Export customer details Test Start *************************
+06/30/2023 11:58:48 AM: INFO: ******************** Exporting Customer Selected ******************
+06/30/2023 11:58:50 AM: INFO: ************************* Home page Title Test ***************************
+06/30/2023 11:58:54 AM: INFO: ************************* Home page Title is Passed ***************************
+06/30/2023 11:58:56 AM: INFO: ************************* Verifying Login Test ***************************
+06/30/2023 11:59:10 AM: INFO: ************************* Login Test is Passed ***************************
+06/30/2023 11:59:13 AM: INFO: ************************* Test_002_DDT_Login  ******************
+06/30/2023 11:59:13 AM: INFO: ************************* Verifying Login Test ***************************
+06/30/2023 11:59:24 AM: INFO: *** Passed ***
+06/30/2023 11:59:31 AM: INFO: ***** Passed ******
+06/30/2023 11:59:37 AM: INFO: ***** Passed ******
+06/30/2023 11:59:43 AM: INFO: ***** Passed ******
+06/30/2023 11:59:49 AM: INFO: *** Failed ***
+06/30/2023 11:59:55 AM: INFO: *** Failed ***
+06/30/2023 12:00:02 PM: INFO: *** Failed ***
+06/30/2023 12:00:07 PM: INFO: ***** Passed ******
+06/30/2023 12:00:14 PM: INFO: ***** Passed ******
+06/30/2023 12:00:14 PM: INFO: ******** Login DDt test failed ******
+06/30/2023 12:00:14 PM: INFO: ************** End of Login DDT Test **************
+06/30/2023 12:00:14 PM: INFO: ************************ Completed TC_LoginDDT_002 *********************
+06/30/2023 12:00:16 PM: INFO: ****************** Search Customer By Email **************
+06/30/2023 12:00:23 PM: INFO: ************************* Login Successful ****************
+06/30/2023 12:00:23 PM: INFO: ******** Starting Search Customer By Email ************
+06/30/2023 12:00:24 PM: INFO: ************** Searching Customer By Email Id ****************
+06/30/2023 12:00:30 PM: INFO: **************** TC_SearchCustomerByEmail__004 Finished
+06/30/2023 12:00:33 PM: INFO: ****************** Search Customer By Name **************
+06/30/2023 12:00:39 PM: INFO: ************************* Login Successful ****************
+06/30/2023 12:00:39 PM: INFO: ******** Starting Search Customer By Name ************
+06/30/2023 12:00:41 PM: INFO: ************** Searching Customer By Name ****************
+06/30/2023 12:00:47 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 

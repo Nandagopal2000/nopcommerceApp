@@ -16,6 +16,7 @@ class Test_ExportCustomerXML_008:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
+    @pytest.mark.Data
     def test_exportCustomerXML(self, setup):
         self.logger.info("****************** Search Customer By Email **************")
         self.driver = setup

@@ -1,4 +1,4 @@
-# import pytest
+import pytest
 # import time
 # from selenium import webdriver
 # from selenium.webdriver.common.by import By
@@ -16,6 +16,7 @@ class Test_ExportCustomerExcel_009:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
+    @pytest.mark.Data
     def test_exportCustomerXML(self, setup):
         self.logger.info("****************** Search Customer By Email **************")
         self.driver = setup
