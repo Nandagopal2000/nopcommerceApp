@@ -1064,3 +1064,67 @@
 06/30/2023 12:00:39 PM: INFO: ******** Starting Search Customer By Name ************
 06/30/2023 12:00:41 PM: INFO: ************** Searching Customer By Name ****************
 06/30/2023 12:00:47 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+07/03/2023 11:35:40 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:35:48 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:35:48 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:35:49 AM: INFO: ******************** Exporting Customer Excel All ******************
+07/03/2023 11:35:50 AM: INFO: ******************* Exporting Customer Excel All *******************
+07/03/2023 11:35:53 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:35:59 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:35:59 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:36:01 AM: INFO: ******************** Exporting Customer Excel Selected ******************
+07/03/2023 11:36:04 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:36:17 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:36:17 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:36:21 AM: INFO: ******************** Exporting Customer all ******************
+07/03/2023 11:36:22 AM: INFO: ******************* Exporting Customer all *******************
+07/03/2023 11:36:25 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:36:32 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:36:32 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:36:37 AM: INFO: ******************** Exporting Customer Selected ******************
+07/03/2023 11:36:39 AM: INFO: ******************* Exporting Customer Completed *******************
+07/03/2023 11:38:47 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:38:56 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:38:56 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:38:58 AM: INFO: ******************** Exporting Customer Excel Selected ******************
+07/03/2023 11:44:16 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:44:22 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:44:22 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:44:24 AM: INFO: ******************** Exporting Customer all ******************
+07/03/2023 11:44:25 AM: INFO: ******************* Exporting Customer all *******************
+07/03/2023 11:44:27 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:44:32 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:44:32 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:44:34 AM: INFO: ******************** Exporting Customer Selected ******************
+07/03/2023 11:44:35 AM: INFO: ******************* Exporting Customer Completed *******************
+07/03/2023 11:52:58 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:53:07 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:53:07 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:53:10 AM: INFO: ******************** Exporting Customer Excel All ******************
+07/03/2023 11:53:10 AM: INFO: ******************* Exporting Customer Excel All *******************
+07/03/2023 11:53:13 AM: INFO: ****************** Search Customer By Email **************
+07/03/2023 11:53:19 AM: INFO: ************************* Login Successful ****************
+07/03/2023 11:53:19 AM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 11:53:20 AM: INFO: ******************** Exporting Customer Excel Selected ******************
+07/03/2023 11:53:21 AM: INFO: ******************* Exporting Customer Excel Selected *******************
+07/03/2023 12:08:04 PM: INFO: ****************** Search Customer By Email **************
+07/03/2023 12:09:09 PM: INFO: ****************** Search Customer By Email **************
+07/03/2023 12:10:12 PM: INFO: ************************* Login Successful ****************
+07/03/2023 12:10:12 PM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 12:10:21 PM: INFO: ******************** Exporting Customer all ******************
+07/03/2023 12:10:28 PM: INFO: ******************* Exporting Customer all *******************
+07/03/2023 12:10:30 PM: INFO: ****************** Search Customer By Email **************
+07/03/2023 12:11:02 PM: INFO: ************************* Login Successful ****************
+07/03/2023 12:11:02 PM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 12:11:05 PM: INFO: ******************** Exporting Customer Selected ******************
+07/03/2023 12:11:08 PM: INFO: ******************* Exporting Customer Completed *******************
+07/03/2023 12:11:16 PM: INFO: ****************** Search Customer By Email **************
+07/03/2023 12:11:40 PM: INFO: ************************* Login Successful ****************
+07/03/2023 12:11:40 PM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 12:11:45 PM: INFO: ******************** Exporting Customer Excel All ******************
+07/03/2023 12:11:50 PM: INFO: ******************* Exporting Customer Excel All *******************
+07/03/2023 12:11:53 PM: INFO: ****************** Search Customer By Email **************
+07/03/2023 12:12:06 PM: INFO: ************************* Login Successful ****************
+07/03/2023 12:12:06 PM: INFO: *************************** Export customer details Test Start *************************
+07/03/2023 12:12:12 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+07/03/2023 12:12:13 PM: INFO: ******************* Exporting Customer Excel Selected *******************
