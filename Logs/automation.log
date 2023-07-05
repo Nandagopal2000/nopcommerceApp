@@ -1128,3 +1128,70 @@
 07/03/2023 12:12:06 PM: INFO: *************************** Export customer details Test Start *************************
 07/03/2023 12:12:12 PM: INFO: ******************** Exporting Customer Excel Selected ******************
 07/03/2023 12:12:13 PM: INFO: ******************* Exporting Customer Excel Selected *******************
+07/04/2023 06:05:04 PM: INFO: ************* Editing Customer Details *************************
+07/04/2023 06:05:10 PM: INFO: ******************** Login Successful ******************
+07/04/2023 06:05:10 PM: INFO: ****************** Edit Customer Details Start **********************
+07/04/2023 06:13:18 PM: INFO: ************* Editing Customer Details *************************
+07/04/2023 06:13:26 PM: INFO: ******************** Login Successful ******************
+07/04/2023 06:13:26 PM: INFO: ****************** Edit Customer Details Start **********************
+07/04/2023 06:15:11 PM: INFO: ************* Editing Customer Details *************************
+07/04/2023 06:15:19 PM: INFO: ******************** Login Successful ******************
+07/04/2023 06:15:19 PM: INFO: ****************** Edit Customer Details Start **********************
+07/04/2023 06:19:59 PM: INFO: ************* Editing Customer Details *************************
+07/04/2023 06:20:05 PM: INFO: ******************** Login Successful ******************
+07/04/2023 06:20:05 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 10:57:04 AM: INFO: ************* Editing Customer Details *************************
+07/05/2023 10:57:10 AM: INFO: ******************** Login Successful ******************
+07/05/2023 10:57:10 AM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 11:11:29 AM: INFO: ************* Editing Customer Details *************************
+07/05/2023 11:11:36 AM: INFO: ******************** Login Successful ******************
+07/05/2023 11:11:36 AM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 11:14:59 AM: INFO: ************* Editing Customer Details *************************
+07/05/2023 11:15:06 AM: INFO: ******************** Login Successful ******************
+07/05/2023 11:15:06 AM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 11:24:52 AM: INFO: ************* Editing Customer Details *************************
+07/05/2023 11:24:59 AM: INFO: ******************** Login Successful ******************
+07/05/2023 11:24:59 AM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 11:42:52 AM: INFO: ************* Editing Customer Details *************************
+07/05/2023 11:42:59 AM: INFO: ******************** Login Successful ******************
+07/05/2023 11:42:59 AM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:03:44 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:03:52 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:03:52 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:03:58 PM: INFO: ********************* Edit Customer Test Started ************************
+07/05/2023 01:12:08 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:12:16 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:12:16 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:12:51 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:12:58 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:12:58 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:13:04 PM: INFO: ********************* Edit Customer Test Started ************************
+07/05/2023 01:21:11 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:21:18 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:21:18 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:23:01 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:23:07 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:23:07 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:23:14 PM: INFO: ********************* Edit Customer Test Started ************************
+07/05/2023 01:23:15 PM: ERROR: **************** Add Customer Test Failed ****************
+07/05/2023 01:26:16 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:26:23 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:26:23 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:26:37 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:26:44 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:26:44 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:26:56 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:27:01 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:27:01 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:27:59 PM: INFO: ************* Editing Customer Details *************************
+07/05/2023 01:28:06 PM: INFO: ******************** Login Successful ******************
+07/05/2023 01:28:06 PM: INFO: ****************** Edit Customer Details Start **********************
+07/05/2023 01:28:22 PM: INFO: ********************* Edit Customer Test Started ************************
+07/05/2023 01:28:22 PM: INFO: ************ Edit Customer Test Passed ******************
+07/05/2023 01:28:22 PM: INFO: *************************** Ending Test_011_EditCustomer Test *************************
+07/05/2023 04:06:59 PM: INFO: ************* Deleting Customer Details *************************
+07/05/2023 04:07:07 PM: INFO: ******************** Login Successful ******************
+07/05/2023 04:07:07 PM: INFO: ****************** Delete Customer Details Start **********************
+07/05/2023 04:07:24 PM: INFO: ********************* Delete Customer Test Started ************************
+07/05/2023 04:07:24 PM: INFO: ************ Delete Customer Test Passed ******************
+07/05/2023 04:07:25 PM: INFO: *************************** Ending Test_012_DeleteCustomer Test *************************
