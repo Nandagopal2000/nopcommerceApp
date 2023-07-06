@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import Select
 class EditCustomer:
     # Editing the Customer details
     iconSearch_Click_Btn_xpath = "//div/div[@class='icon-collapse']"
-    lnkCustomers_Edit_Btn_xpath = "//tbody/tr/td/a[@href='Edit/116']"
+    lnkCustomers_Edit_Btn_xpath = "//tbody/tr[@class='odd']//td/a[@href='Edit/5']"
     txtFirstName_Edit_xpath = "//div/input[@id='FirstName']"
     txtLastName_Edit_xpath = "//div/input[@id='LastName']"
     txtCompanyName_Edit_xpath = "//div/input[@id='Company']"

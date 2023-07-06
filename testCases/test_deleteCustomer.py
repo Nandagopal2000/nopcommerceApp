@@ -18,7 +18,8 @@ class Test_DeleteCustomer_012:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
-    def test_editCustomer(self, setup):
+    @pytest.mark.Delete
+    def test_deleteCustomer(self, setup):
         self.logger.info("************* Deleting Customer Details *************************")
         self.driver = setup
         self.driver.get(self.baseURL)

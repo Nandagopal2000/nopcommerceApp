@@ -17,6 +17,7 @@ class Test_EditCustomer_011:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
+    @pytest.mark.Edit
     def test_editCustomer(self, setup):
         self.logger.info("************* Editing Customer Details *************************")
         self.driver = setup
