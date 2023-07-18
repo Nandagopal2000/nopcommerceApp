@@ -1,0 +1,72 @@
+Selenium Hybrid Framework(Python,selenium)
+
+tools-used
+(Python, Selenium, Pytest, Page Object Model, HTML Reports)
+-----------------------------------------------------------------
+
+--> What is framework?
+
+Framework is an organized way of maintaining automation files.
+In the framework all the files will communicate each other to perform certain task.
+
+
+--> Why framework?
+
+1) Re-usablity
+2) Maintainablity
+
+
+--> types of framework?
+
+1) Built-in frameworks
+	pytest, robotframework,unittest etc...
+
+2) Customized/User defined frameworks
+	Datadriven framework, keyword driven framework, Hybrid driven framework
+
+
+* To work on framework we have to go through different stages/phases
+
+Phases:
+-------------------
+Phase-1 : 
+
+## Analyse application, technology and skill set of team, choose test cases
+
+100 TC's.....
+
+decision about the tools to be used
+Re-test cases(test data)->data driven test cases  
+Re-gression cases
+TC's can be automatable
+
+100 % automation?? --> This is not possible because some of the tests
+cant be done like (captcha,report,..etc), this type of the test needs
+the manual tests done so 100% automation is not possible, if the mentioned
+tests or all the tests are done through automation and its working correct 
+then we can call it as 100% automation
+
+
+Phase-2 : 
+
+## Design & implementation of the framework
+
+Phase-3 :
+
+## Execution
+
+Phase-4 :
+
+## Maintainence(Version Control System)
+
+
+
+eCommerce Application....
+
+Frontend-> https://demo.nopcommerce.com/
+Backend-> https://admin-demo.nopcommerce.com/
+
+
+
+
+
