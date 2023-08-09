@@ -10,7 +10,7 @@ from pageObjects.searchCustomerPage import SearchCustomer
 from utilites.readProperties import ReadConfig
 from utilites.customLogger import LogGen
 
-class Test_ExportCustomerXML_008:
+class Test_ExportCustomerXML_009:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUserName()
     password = ReadConfig.getPassword()

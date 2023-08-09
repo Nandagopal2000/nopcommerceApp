@@ -7,15 +7,19 @@ from selenium import webdriver
 def setup(browser):
     if browser == 'chrome':
         driver = webdriver.Chrome()
+        driver.implicitly_wait(30)
         print("Launching Chrome Browser.............")
     elif browser == 'firefox':
         driver = webdriver.Firefox()
+        driver.implicitly_wait(30)
         print("Launching FireFox Browser............")
     elif browser == 'edge':
         driver = webdriver.Edge()
+        driver.implicitly_wait(30)
         print("Launching Edge Browser...............")
     else:
         driver = webdriver.Ie()
+        driver.implicitly_wait(30)
 
     return driver
 

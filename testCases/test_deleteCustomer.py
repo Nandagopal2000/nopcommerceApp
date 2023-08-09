@@ -12,7 +12,7 @@ from pageObjects.searchCustomerPage import SearchCustomer
 from utilites.readProperties import ReadConfig
 from utilites.customLogger import LogGen
 
-class Test_DeleteCustomer_012:
+class Test_DeleteCustomer_011:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUserName()
     password = ReadConfig.getPassword()

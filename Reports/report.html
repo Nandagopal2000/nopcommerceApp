@@ -253,10 +253,10 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 06-Jul-2023 at 12:59:11 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 08-Aug-2023 at 16:42:54 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Summary</h2>
-    <p>1 tests ran in 17.04 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>7 tests ran in 95.18 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">7 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -267,15 +267,225 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="failed results-table-row">
+      <tbody class="passed results-table-row">
         <tr>
-          <td class="col-result">Failed</td>
-          <td class="col-name">test_deleteCustomer.py::Test_DeleteCustomer_012::test_deleteCustomer</td>
-          <td class="col-duration">16.31</td>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_1</td>
+          <td class="col-duration">13.51</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">self = &lt;testCases.test_deleteCustomer.Test_DeleteCustomer_012 object at 0x00000191D499E710&gt;<br/>setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;e288d4fe012b4f0e587e6d25d3ddfde0&quot;)&gt;<br/><br/>    @pytest.mark.Delete<br/>    def test_deleteCustomer(self, setup):<br/>        self.logger.info(&quot;************* Deleting Customer Details *************************&quot;)<br/>        self.driver = setup<br/>        self.driver.get(self.baseURL)<br/>        self.driver.maximize_window()<br/>    <br/>        self.lp = LoginPage(self.driver)<br/>        self.lp.setUserName(self.username)<br/>        self.lp.setPassword(self.password)<br/>        self.lp.clickLogin()<br/>        self.logger.info(&quot;******************** Login Successful ******************&quot;)<br/>    <br/>        self.logger.info(&quot;****************** Delete Customer Details Start **********************&quot;)<br/>    <br/>        self.addcust = AddCustomer(self.driver)<br/>        self.addcust.clickOnCustomersMenu()<br/>        self.addcust.clickOnCustomersMenuItem()<br/>    <br/>        self.deletecust = DeleteCustomer(self.driver)<br/>        time.sleep(3)<br/>        self.deletecust.clickOnSearchAngleUpIcon()<br/>        time.sleep(3)<br/>&gt;       self.deletecust.clickOnCustomerEditBtn()<br/><br/>testCases\test_deleteCustomer.py:44: <br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/>pageObjects\deleteCustomer.py:20: in clickOnCustomerEditBtn<br/>    self.driver.find_element(By.XPATH, self.lnkCustomers_Edit_Btn_xpath).click()<br/>C:\Users\ndevaraj\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py:830: in find_element<br/>    return self.execute(Command.FIND_ELEMENT, {&quot;using&quot;: by, &quot;value&quot;: value})[&quot;value&quot;]<br/>C:\Users\ndevaraj\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py:440: in execute<br/>    self.error_handler.check_response(response)<br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/><br/>self = &lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x00000191D4C1DE10&gt;<br/>response = {&#x27;status&#x27;: 404, &#x27;value&#x27;: &#x27;{&quot;value&quot;:{&quot;error&quot;:&quot;no such element&quot;,&quot;message&quot;:&quot;no such element: Unable to locate element: {\...\n\\tRtlGetAppContainerNamedObjectPath [0x77BD7B4E+286]\\n\\tRtlGetAppContainerNamedObjectPath [0x77BD7B1E+238]\\n&quot;}}&#x27;}<br/><br/>    def check_response(self, response: Dict[str, Any]) -&gt; None:<br/>        &quot;&quot;&quot;Checks that a JSON response from the WebDriver does not have an<br/>        error.<br/>    <br/>        :Args:<br/>         - response - The JSON response from the WebDriver server as a dictionary<br/>           object.<br/>    <br/>        :Raises: If the response contains an error message.<br/>        &quot;&quot;&quot;<br/>        status = response.get(&quot;status&quot;, None)<br/>        if not status or status == ErrorCode.SUCCESS:<br/>            return<br/>        value = None<br/>        message = response.get(&quot;message&quot;, &quot;&quot;)<br/>        screen: str = response.get(&quot;screen&quot;, &quot;&quot;)<br/>        stacktrace = None<br/>        if isinstance(status, int):<br/>            value_json = response.get(&quot;value&quot;, None)<br/>            if value_json and isinstance(value_json, str):<br/>                import json<br/>    <br/>                try:<br/>                    value = json.loads(value_json)<br/>                    if len(value.keys()) == 1:<br/>                        value = value[&quot;value&quot;]<br/>                    status = value.get(&quot;error&quot;, None)<br/>                    if not status:<br/>                        status = value.get(&quot;status&quot;, ErrorCode.UNKNOWN_ERROR)<br/>                        message = value.get(&quot;value&quot;) or value.get(&quot;message&quot;)<br/>                        if not isinstance(message, str):<br/>                            value = message<br/>                            message = message.get(&quot;message&quot;)<br/>                    else:<br/>                        message = value.get(&quot;message&quot;, None)<br/>                except ValueError:<br/>                    pass<br/>    <br/>        exception_class: Type[WebDriverException]<br/>        if status in ErrorCode.NO_SUCH_ELEMENT:<br/>            exception_class = NoSuchElementException<br/>        elif status in ErrorCode.NO_SUCH_FRAME:<br/>            exception_class = NoSuchFrameException<br/>        elif status in ErrorCode.NO_SUCH_SHADOW_ROOT:<br/>            exception_class = NoSuchShadowRootException<br/>        elif status in ErrorCode.NO_SUCH_WINDOW:<br/>            exception_class = NoSuchWindowException<br/>        elif status in ErrorCode.STALE_ELEMENT_REFERENCE:<br/>            exception_class = StaleElementReferenceException<br/>        elif status in ErrorCode.ELEMENT_NOT_VISIBLE:<br/>            exception_class = ElementNotVisibleException<br/>        elif status in ErrorCode.INVALID_ELEMENT_STATE:<br/>            exception_class = InvalidElementStateException<br/>        elif (<br/>            status in ErrorCode.INVALID_SELECTOR<br/>            or status in ErrorCode.INVALID_XPATH_SELECTOR<br/>            or status in ErrorCode.INVALID_XPATH_SELECTOR_RETURN_TYPER<br/>        ):<br/>            exception_class = InvalidSelectorException<br/>        elif status in ErrorCode.ELEMENT_IS_NOT_SELECTABLE:<br/>            exception_class = ElementNotSelectableException<br/>        elif status in ErrorCode.ELEMENT_NOT_INTERACTABLE:<br/>            exception_class = ElementNotInteractableException<br/>        elif status in ErrorCode.INVALID_COOKIE_DOMAIN:<br/>            exception_class = InvalidCookieDomainException<br/>        elif status in ErrorCode.UNABLE_TO_SET_COOKIE:<br/>            exception_class = UnableToSetCookieException<br/>        elif status in ErrorCode.TIMEOUT:<br/>            exception_class = TimeoutException<br/>        elif status in ErrorCode.SCRIPT_TIMEOUT:<br/>            exception_class = TimeoutException<br/>        elif status in ErrorCode.UNKNOWN_ERROR:<br/>            exception_class = WebDriverException<br/>        elif status in ErrorCode.UNEXPECTED_ALERT_OPEN:<br/>            exception_class = UnexpectedAlertPresentException<br/>        elif status in ErrorCode.NO_ALERT_OPEN:<br/>            exception_class = NoAlertPresentException<br/>        elif status in ErrorCode.IME_NOT_AVAILABLE:<br/>            exception_class = ImeNotAvailableException<br/>        elif status in ErrorCode.IME_ENGINE_ACTIVATION_FAILED:<br/>            exception_class = ImeActivationFailedException<br/>        elif status in ErrorCode.MOVE_TARGET_OUT_OF_BOUNDS:<br/>            exception_class = MoveTargetOutOfBoundsException<br/>        elif status in ErrorCode.JAVASCRIPT_ERROR:<br/>            exception_class = JavascriptException<br/>        elif status in ErrorCode.SESSION_NOT_CREATED:<br/>            exception_class = SessionNotCreatedException<br/>        elif status in ErrorCode.INVALID_ARGUMENT:<br/>            exception_class = InvalidArgumentException<br/>        elif status in ErrorCode.NO_SUCH_COOKIE:<br/>            exception_class = NoSuchCookieException<br/>        elif status in ErrorCode.UNABLE_TO_CAPTURE_SCREEN:<br/>            exception_class = ScreenshotException<br/>        elif status in ErrorCode.ELEMENT_CLICK_INTERCEPTED:<br/>            exception_class = ElementClickInterceptedException<br/>        elif status in ErrorCode.INSECURE_CERTIFICATE:<br/>            exception_class = InsecureCertificateException<br/>        elif status in ErrorCode.INVALID_COORDINATES:<br/>            exception_class = InvalidCoordinatesException<br/>        elif status in ErrorCode.INVALID_SESSION_ID:<br/>            exception_class = InvalidSessionIdException<br/>        elif status in ErrorCode.UNKNOWN_METHOD:<br/>            exception_class = UnknownMethodException<br/>        else:<br/>            exception_class = WebDriverException<br/>        if not value:<br/>            value = response[&quot;value&quot;]<br/>        if isinstance(value, str):<br/>            raise exception_class(value)<br/>        if message == &quot;&quot; and &quot;message&quot; in value:<br/>            message = value[&quot;message&quot;]<br/>    <br/>        screen = None  # type: ignore[assignment]<br/>        if &quot;screen&quot; in value:<br/>            screen = value[&quot;screen&quot;]<br/>    <br/>        stacktrace = None<br/>        st_value = value.get(&quot;stackTrace&quot;) or value.get(&quot;stacktrace&quot;)<br/>        if st_value:<br/>            if isinstance(st_value, str):<br/>                stacktrace = st_value.split(&quot;\n&quot;)<br/>            else:<br/>                stacktrace = []<br/>                try:<br/>                    for frame in st_value:<br/>                        line = frame.get(&quot;lineNumber&quot;, &quot;&quot;)<br/>                        file = frame.get(&quot;fileName&quot;, &quot;&lt;anonymous&gt;&quot;)<br/>                        if line:<br/>                            file = f&quot;{file}:{line}&quot;<br/>                        meth = frame.get(&quot;methodName&quot;, &quot;&lt;anonymous&gt;&quot;)<br/>                        if &quot;className&quot; in frame:<br/>                            meth = f&quot;{frame[&#x27;className&#x27;]}.{meth}&quot;<br/>                        msg = &quot;    at %s (%s)&quot;<br/>                        msg = msg % (meth, file)<br/>                        stacktrace.append(msg)<br/>                except TypeError:<br/>                    pass<br/>        if exception_class == UnexpectedAlertPresentException:<br/>            alert_text = None<br/>            if &quot;data&quot; in value:<br/>                alert_text = value[&quot;data&quot;].get(&quot;text&quot;)<br/>            elif &quot;alert&quot; in value:<br/>                alert_text = value[&quot;alert&quot;].get(&quot;text&quot;)<br/>            raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here<br/>&gt;       raise exception_class(message, screen, stacktrace)<br/><span class="error">E       selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//tbody/tr/td/a[@href=&#x27;Edit/116&#x27;]&quot;}</span><br/><span class="error">E         (Session info: chrome=114.0.5735.134)</span><br/><span class="error">E       Stacktrace:</span><br/><span class="error">E       Backtrace:</span><br/><span class="error">E       	GetHandleVerifier [0x010EA813+48355]</span><br/><span class="error">E       	(No symbol) [0x0107C4B1]</span><br/><span class="error">E       	(No symbol) [0x00F85358]</span><br/><span class="error">E       	(No symbol) [0x00FB09A5]</span><br/><span class="error">E       	(No symbol) [0x00FB0B3B]</span><br/><span class="error">E       	(No symbol) [0x00FDE232]</span><br/><span class="error">E       	(No symbol) [0x00FCA784]</span><br/><span class="error">E       	(No symbol) [0x00FDC922]</span><br/><span class="error">E       	(No symbol) [0x00FCA536]</span><br/><span class="error">E       	(No symbol) [0x00FA82DC]</span><br/><span class="error">E       	(No symbol) [0x00FA93DD]</span><br/><span class="error">E       	GetHandleVerifier [0x0134AABD+2539405]</span><br/><span class="error">E       	GetHandleVerifier [0x0138A78F+2800735]</span><br/><span class="error">E       	GetHandleVerifier [0x0138456C+2775612]</span><br/><span class="error">E       	GetHandleVerifier [0x011751E0+616112]</span><br/><span class="error">E       	(No symbol) [0x01085F8C]</span><br/><span class="error">E       	(No symbol) [0x01082328]</span><br/><span class="error">E       	(No symbol) [0x0108240B]</span><br/><span class="error">E       	(No symbol) [0x01074FF7]</span><br/><span class="error">E       	BaseThreadInitThunk [0x760900C9+25]</span><br/><span class="error">E       	RtlGetAppContainerNamedObjectPath [0x77BD7B4E+286]</span><br/><span class="error">E       	RtlGetAppContainerNamedObjectPath [0x77BD7B1E+238]</span><br/><br/>C:\Users\ndevaraj\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py:245: NoSuchElementException<br/> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_deleteCustomer.py:23 ************* Deleting Customer Details *************************
-INFO     root:test_deleteCustomer.py:32 ******************** Login Successful ******************
-INFO     root:test_deleteCustomer.py:34 ****************** Delete Customer Details Start **********************<br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>John Smith
+Logout
+Dashboard
+Catalog
+Sales
+Customers
+Customers
+Customer roles
+Online customers
+Vendors
+Activity log
+Activity Types
+GDPR requests (log)
+Promotions
+Content management
+Configuration
+System
+Reports
+Help
+×
+The new customer role has been added successfully.
+Customer roles
+Add new
+Learn more about customer roles
+Name Free shipping Tax exempt Active Is system role Edit
+Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+1
+Show
+7
+15
+20
+50
+100
+items
+1-13 of 13 items
+Powered by nopCommerce
+Tuesday, August 8, 2023 4:14 AM
+nopCommerce version 4.60.0
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:21 *************************** Adding CustomerRole Test ************************* 
+INFO     root:test_addCustomerRole.py:30 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:32 ****************************** Adding Customer Role Started ********************************
+INFO     root:test_addCustomerRole.py:44 ****************** Saving Customer Role Info ****************
+INFO     root:test_addCustomerRole.py:46 ****************** Add Customer Role Validation Started *********************
+INFO     root:test_addCustomerRole.py:53 *************************** Add Customer Role Test Passed ****************************
+INFO     root:test_addCustomerRole.py:60 ***************************** Ending test_AddCustomerRole_1 **************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_2</td>
+          <td class="col-duration">14.45</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:63 *************************** Checking Name Present CustomerRole Test 1 ************************* 
+INFO     root:test_addCustomerRole.py:72 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:74 ******************************  Checking Name Present CustomerRole Test 1 Started ********************************
+INFO     root:test_addCustomerRole.py:89 ***************************** Ending test_AddCustomerRole_2 **************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_3</td>
+          <td class="col-duration">14.31</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:92 *************************** Checking Name Present CustomerRole Test 2 ************************* 
+INFO     root:test_addCustomerRole.py:101 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:103 ****************************** Checking Name Present CustomerRole Test 2 Started ********************************
+INFO     root:test_addCustomerRole.py:118 ***************************** Ending test_AddCustomerRole_3 **************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_4</td>
+          <td class="col-duration">11.13</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:121 *************************** Checking Name Present CustomerRole Test 3 ************************* 
+INFO     root:test_addCustomerRole.py:130 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:132 ****************************** Checking Name Present CustomerRole Test 3 Started ********************************
+INFO     root:test_addCustomerRole.py:147 ***************************** Ending test_AddCustomerRole_4 **************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_5</td>
+          <td class="col-duration">13.80</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:150 *************************** Checking Name Present CustomerRole Test 4 ************************* 
+INFO     root:test_addCustomerRole.py:159 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:161 ****************************** Checking Name Present CustomerRole Test 4 Started ********************************
+INFO     root:test_addCustomerRole.py:176 ***************************** Ending test_AddCustomerRole_4 **************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_6</td>
+          <td class="col-duration">13.23</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:179 *************************** Checking Name Present CustomerRole Test 5 ************************* 
+INFO     root:test_addCustomerRole.py:188 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:190 ****************************** Checking Name Present CustomerRole Test 5 Started ********************************
+INFO     root:test_addCustomerRole.py:205 ***************************** Ending test_AddCustomerRole_4 **************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomerRole.py::Test_AddCustomerRole_012::test_AddCustomerRole_7</td>
+          <td class="col-duration">14.64</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser.............
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Administrators Edit
+Forum Moderators Edit
+Guests Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Nandagopal Edit
+Registered Edit
+Vendors Edit
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomerRole.py:208 *************************** Checking Name Present CustomerRole Test 6 ************************* 
+INFO     root:test_addCustomerRole.py:217 ****************************** Login Successful *******************************
+INFO     root:test_addCustomerRole.py:219 ****************************** Checking Name Present CustomerRole Test 6 Started ********************************
+INFO     root:test_addCustomerRole.py:234 ***************************** Ending test_AddCustomerRole_4 **************************<br/></div></td></tr></tbody></table></body></html>

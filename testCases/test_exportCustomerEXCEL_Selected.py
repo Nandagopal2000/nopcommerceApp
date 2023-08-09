@@ -10,7 +10,7 @@ from pageObjects.exportCustomer import exportCustomer
 from utilites.readProperties import ReadConfig
 from utilites.customLogger import LogGen
 
-class Test_ExportCustomerExcel_009:
+class Test_ExportCustomerExcel_007:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUserName()
     password = ReadConfig.getPassword()
