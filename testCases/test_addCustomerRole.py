@@ -17,6 +17,7 @@ class Test_AddCustomerRole_012:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_1(self, setup):
         self.logger.info("*************************** Adding CustomerRole Test ************************* ")
         self.driver = setup
@@ -59,6 +60,7 @@ class Test_AddCustomerRole_012:
         self.driver.close()
         self.logger.info("***************************** Ending test_AddCustomerRole_1 **************************")
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_2(self, setup):
         self.logger.info("*************************** Checking Name Present CustomerRole Test 1 ************************* ")
         self.driver = setup
@@ -88,6 +90,7 @@ class Test_AddCustomerRole_012:
         self.driver.close()
         self.logger.info("***************************** Ending test_AddCustomerRole_2 **************************")
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_3(self, setup):
         self.logger.info("*************************** Checking Name Present CustomerRole Test 2 ************************* ")
         self.driver = setup
@@ -117,6 +120,7 @@ class Test_AddCustomerRole_012:
         self.driver.close()
         self.logger.info("***************************** Ending test_AddCustomerRole_3 **************************")
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_4(self, setup):
         self.logger.info("*************************** Checking Name Present CustomerRole Test 3 ************************* ")
         self.driver = setup
@@ -146,6 +150,7 @@ class Test_AddCustomerRole_012:
         self.driver.close()
         self.logger.info("***************************** Ending test_AddCustomerRole_4 **************************")
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_5(self, setup):
         self.logger.info("*************************** Checking Name Present CustomerRole Test 4 ************************* ")
         self.driver = setup
@@ -175,6 +180,7 @@ class Test_AddCustomerRole_012:
         self.driver.close()
         self.logger.info("***************************** Ending test_AddCustomerRole_4 **************************")
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_6(self, setup):
         self.logger.info("*************************** Checking Name Present CustomerRole Test 5 ************************* ")
         self.driver = setup
@@ -204,6 +210,7 @@ class Test_AddCustomerRole_012:
         self.driver.close()
         self.logger.info("***************************** Ending test_AddCustomerRole_4 **************************")
 
+    @pytest.mark.sanity
     def test_AddCustomerRole_7(self, setup):
         self.logger.info("*************************** Checking Name Present CustomerRole Test 6 ************************* ")
         self.driver = setup
